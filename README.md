@@ -1,6 +1,6 @@
 # globaloptimizationimagefusion
-paper:Optimization and regularization of complex task decomposition for blind removal of multi-factor degradation
-https://www.sciencedirect.com/science/article/pii/S1047320321002534
+paper:A total variation global optimization framework and its application on infrared and visible image fusion
+https://link.springer.com/article/10.1007/s11760-021-01963-w
 
 Runing environment:
 keras.
