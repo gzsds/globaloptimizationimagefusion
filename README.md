@@ -8,3 +8,7 @@ keras.
 
 #### Feature:
  Simple, very simple.
+ 
+ 2023 remarks
+ 
+ Better results can be obtained by replacing the two norm with a one norm
